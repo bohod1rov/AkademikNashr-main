@@ -218,4 +218,5 @@ footer{
 .footer-links ul{
     display: flex;
     gap: 10px;
+    color: red;
 }
